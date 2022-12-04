@@ -1,5 +1,6 @@
 # Employees System
-### system to manage the data of employess
+### System to manage the data of employess 
+### Using C++ and pointers
 # Functionalities
 > Add
  - you can add employee data name, ID, salary, bouns and tax.
@@ -21,4 +22,3 @@
 > Search
 - you can search for specific employee using his name or part of it or ID
 
-### using cpp and pointers
